@@ -1,0 +1,17 @@
+div {
+	height: 100px;
+	width: 100px;
+	border: 1px solid black;
+	margin: 10px;
+	background-color: gray;
+}
+
+.cuadro {
+	margin-top: 20px;
+	width: 380px;
+	height: 120px;
+
+}
+.inlineblock {
+	display: inline-block;
+}
